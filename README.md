@@ -9,8 +9,8 @@
 <p align="left"> <a href="https://twitter.com/sudanesehumor" target="blank"><img src="https://img.shields.io/twitter/follow/sudanesehumor?logo=twitter&style=for-the-badge" alt="sudanesehumor" /></a> </p>
 
 <p align="left">
-  <a href="https://www.instagram.com/stinger_chronicles" target="blank">
-    <img src="https://img.shields.io/twitter/follow/stinger_chronicles?logo=twitter&style=for-the-badge" alt="stinger_chronicles" />
+  <a href="https://www.instagram.com/stinger_chronicles" target="Instagram">
+    <img src="https://img.shields.io/twitter/follow/stinger_chronicles?logo=instagram&style=for-the-badge" alt="stinger_chronicles" />
   </a>
 </p>
 
