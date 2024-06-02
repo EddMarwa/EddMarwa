@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eddmarwa&label=Profile%20views&color=0e75b6&style=flat" alt="eddmarwa" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eddmarwa" alt="eddmarwa" /></a> </p>
+<p align="left"> <a href="https://github.com/EddMarwa/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eddmarwa" alt="eddmarwa" /></a> </p>
 
 <p align="left"> 
   <a href="https://twitter.com/sudanesehumor" target="x">
