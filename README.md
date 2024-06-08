@@ -4,11 +4,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eddmarwa&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="eddmarwa" /></p>
 
-<p align="left"> <a href="https://github.com/EddMarwa/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eddmarwa" alt="eddmarwa" /></a> </p>
+<p align="left"> <a href="https://github.com/EddMarwa/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=eddmarwa" alt="eddmarwa" /></a> </p>
+
+
 
 <p align="left"> 
-  <a href="https://twitter.com/sudanesehumor" target="x">
-    <img src="https://img.shields.io/twitter/follow/sudanesehumor?logo=twitter&style=for-the-badge" alt="sudanesehumor" />
+  
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sudanesehumor" height="15" width="30"/>
+  
+  <a href="https://twitter.com/sudanesehumor" target="blank">
+    <img align ="center" src="https://img.shields.io/twitter/follow/sudanesehumor?logo=twitter&style=for-the-badge" alt="sudanesehumor"/>
   </a> 
 </p>
 
