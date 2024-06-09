@@ -20,9 +20,9 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on [InvodTech Website]([invodtech.com](https://github.com/Mikebabu254/invod-tech-website)
+- 🔭 I’m currently working on <a href="https://www.invodtech.com">Invotech website</a>.
 - 
-- <p>I am currently working on <a href="https://www.invotech.com">Invotech website</a>.</p>
+- <p>I am currently working on .</p>
 
 - 🌱 I’m currently learning **Web application Frameworks**
 
