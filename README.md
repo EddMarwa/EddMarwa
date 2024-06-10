@@ -29,7 +29,7 @@
 
 - 🤝 I’m looking for help with **ReactNative**
 
-- 👨‍💻 All of my projects are available<a href="https://edd.invodtech.com/#">here</a>.
+- 👨‍💻 All of my projects are available <a href="https://edd.invodtech.com/#">here</a>.
 
 - 💬 Ask me about **Python**
 
