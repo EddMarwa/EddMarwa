@@ -35,9 +35,9 @@
 
 - 📫 How to reach me **stingerchronicles254@gmail.com**
 
-- 📄 Know about my experiences [edd.invodtech.com](edd.invodtech.com)
+- 📄 Know about my experiences <a href="https://edd.invodtech.com/#">here</a>.
 
-- ⚡ Fun fact **I think I am Funny**
+- ⚡ Fun fact **I think I am Factful**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
