@@ -2,7 +2,7 @@
 🔭 I’m currently working on  InvodTech Website<br>👯 I’m looking to collaborate on WebApp Projects<br>🤝 I’m looking for help with ReactNative<br>🌱 I’m currently learning Web application Frameworks<br>💬 Ask me about Python<br>📫 How to reach me: stingerchronicles254@gmail.com<br>👨‍💻 All of my projects are available: edd.invodtech.com<br>📄 Know about my experiences: edd.invodtech.com<br>⚡ Fun fact: I think I am an Algo god.
 
 
-## 🌐 Socials:
+## 🌐 Socials:   
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/stinger_chronicles/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/edward-marwa-99203b1b3/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://www.pinterest.com/stingerchronicles/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://twitter.com/sudanesehumor) 
 
 # 💻 Tech Stack:
