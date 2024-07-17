@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on  InvodTech Website<br>
-👯 I’m looking to collaborate on WebApp Projects<be>
+👯 I’m looking to collaborate on WebApp Projects<br>
 🤝 I’m looking for help with ReactNative<br>
 🌱 I’m currently learning Web3.js<br>
 💬 Ask me about Python<br>
