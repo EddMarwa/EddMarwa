@@ -6,7 +6,8 @@
 💬 Ask me about Python<be>
 📫 How to reach me: stingerchronicles254@gmail.com<br>
 👨‍💻 All of my projects are available: edd.invodtech.com<br>
-📄 Know about my experiences: edd.invodtech.com<br>⚡ Fun fact: I think I am an Algo god.
+📄 Know about my experiences: edd.invodtech.com<br>
+⚡ Fun fact: I think I am an Algo god.
 
 
 ## 🌐 Socials:   
