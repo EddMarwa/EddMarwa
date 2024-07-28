@@ -1,7 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on:  <a href="http://invodtech.com" target="_blank">invodtech.com</a><br>
 👯 I’m looking to collaborate on WebApp Projects<br>
-🤝 I’m looking for help with ReactNative<br>
 🌱 I’m currently learning Web3.js<br>
 💬 Ask me about Python<br>
 📫 How to reach me: stingerchronicles254@gmail.com<br>
