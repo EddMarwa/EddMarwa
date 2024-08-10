@@ -8,9 +8,6 @@
 📄 Know about my experiences: <a href="http://edd.invodtech.com" target="_blank">edd.invodtech.com</a><br>
 ⚡ Fun fact: I think I am an Algo god.
 
-
-
-
 ## 🌐 Socials:   
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]([https://instagram.com/https://www.instagram.com/stinger_chronicles/](https://www.instagram.com/https://www.instagram.com/stinger_chronicles/))[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/edward-marwa-99203b1b3/)[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://www.pinterest.com/stingerchronicles/)[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://twitter.com/sudanesehumor)    
 
