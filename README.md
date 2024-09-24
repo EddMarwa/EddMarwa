@@ -1,4 +1,4 @@
-# 💫 About Me :::
+# 💫 About Me ::
 🔭 I’m currently working on :  <a href="http://invodtech.com." target="_blank">InvodTech</a> <br>
 👯 I’m looking to collaborate on WebApp Projects<br>
 🌱 I’m currently learning Web3.js<br>
