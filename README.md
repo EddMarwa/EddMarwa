@@ -32,4 +32,4 @@
 
 <!-- This was a test Repository -->
 <!-- A very damn Repository -->
-<!-- This Repository is a standard repo open to copying -->
+<!-- This Repository is a standard repo -->
