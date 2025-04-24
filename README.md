@@ -1,6 +1,5 @@
 # 💫 About Me :
 🔭 I’m currently working on : <a href="#" target="_blank">Green Market Application</a> <br>
-
 🌱 I’m currently learning Flutter <br>
 💬 Ask me about Python   
 📫 How to reach me: stingerchronicles254@gmail.com<br> 
