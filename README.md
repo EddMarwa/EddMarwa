@@ -3,7 +3,6 @@
 🌱 I’m currently learning Flutter <br>
 💬 Ask me about Python   
 📫 How to reach me: stingerchronicles254@gmail.com<br>  
-
 <!--👨‍💻 All of my projects are available: <a href="http://edd.invodtech.com" target="_blank">edd.invodtech.com</a><br>
 📄 Know about my experiences: <a href="http://edd.invodtech.com" target="_blank">edd.invodtech.com</a><br> -->
 ⚡ Fun fact: 
