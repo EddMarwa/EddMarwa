@@ -1,6 +1,6 @@
 # 💫 About Me :
 🔭 I’m currently working on : <a href="#" target="_blank">ELimu Hub</a> <br>
-🌱 I’m currently learning Flutter <br>
+🌱 I’m currently learning Flutter  <br>
 💬 Ask me about Python   
 📫 How to reach me: stingerchronicles254@gmail.com<br>  
 
