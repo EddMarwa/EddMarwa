@@ -30,11 +30,14 @@
 --->
 
 
-![](https://github-readme-stats.vercel.app/api?username=EddMarwa&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+## 📊 GitHub Stats
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=EddMarwa&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=EddMarwa&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=86400)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=EddMarwa&theme=dark&hide_border=false&layout=compact)
+![](https://streak-stats.demolab.com/?user=EddMarwa&theme=dark&hide_border=false&cache_seconds=86400)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=EddMarwa&theme=dark&hide_border=false&layout=compact&cache_seconds=86400)
+
 
 
 
