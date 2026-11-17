@@ -1,55 +1,34 @@
-# 💫 About Me :
-🔭 I’m currently working on : <a href="#" target="_blank">ELimu Hub</a> <br>
-🌱 I’m currently learning Flutter  <br>
-💬 Ask me about Python   
-📫 How to reach me: stingerchronicles254@gmail.com<br>  
+# Hi, I'm Ed
 
+**Reconciliation Analyst (Payments) at Sportserve** · **BSc Information Security & Forensics**
 
-<!--👨‍💻 All of my projects are available: <a href="http://edd.invodtech.com" target="_blank">edd.invodtech.com</a><br>
-📄 Know about my experiences: <a href="http://edd.invodtech.com" target="_blank">edd.invodtech.com</a> <br> -->
-⚡ Fun fact: 
+I work with payment data by day and build toward security by night. Based in Nairobi, working remotely.
 
-<!-- This test Repository -->
+---
 
-# 🌐 Socials :
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]([https://instagram.com/https://www.instagram.com/stinger_chronicles/](https://www.instagram.com/https://www.instagram.com/stinger_chronicles/))[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/edward-marwa-99203b1b3/)[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://www.pinterest.com/stingerchronicles/)[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://twitter.com/sudanesehumor)   
+## What I do now
 
+I reconcile 7,000+ transactions a day across multiple payment service providers in a betting environment, tracing every discrepancy, refund and mismatch to its root cause. I write the Excel logic that lets a small team close reconciliations quickly and accurately.
 
+## What I'm learning
 
-# 💻 Tech Stack :
- ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
+| When | Focus | Status |
+| --- | --- | --- |
+| Nov 2026 – Jan 2027 | Microsoft PL-300 (Power BI Data Analyst) | In progress |
+| Feb – Apr 2027 | CompTIA Security+ (SY0-701) | Planned |
+| May 2027 | Blue Team Level 1 (BTL1) | Planned |
 
-# 📊 GitHub Stats :
+## Tools
 
-<!--
-![](https://github-readme-stats.vercel.app/api?username=EddMarwa&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+**Daily:** Advanced Excel · Python · SQL  
+**Learning:** Power BI · Microsoft Sentinel · TryHackMe
 
-![](https://streak-stats.demolab.com/?user=EddMarwa&theme=dark&hide_border=false)<br/>
+## Projects worth seeing
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=EddMarwa&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
---->
+Pinned below. Each repo has its own README with what it does, why it exists, and how to run it.
 
+## Reach me
 
-![](https://github-readme-stats.vercel.app/api?username=EddMarwa&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=86400)
-
-![](https://streak-stats.demolab.com/?user=EddMarwa&theme=dark&hide_border=false&cache_seconds=86400)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=EddMarwa&theme=dark&hide_border=false&layout=compact&cache_seconds=86400)
-
-
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=EddMarwa&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
-### 🔝 Top Contributed Repo  
-![](https://github-contributor-stats.vercel.app/api?username=EddMarwa&limit=5&theme=radical&combine_all_yearly_contributions=true)
-[![](https://visitcount.itsvg.in/api?id=EddMarwa&icon=0&color=0)]
-
-
-
-<!--  This Repository is a standard repo  -->
+- [LinkedIn](https://www.linkedin.com/in/edwardmarwa1)
+- [Microsoft Learn](https://learn.microsoft.com/users/edmarwa-4837/)
+- marwaedward1@gmail.com
