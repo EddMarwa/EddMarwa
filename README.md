@@ -28,11 +28,10 @@
 <summary><b>👤 About</b></summary>
 <br>
 
-Reconciliation analyst at **Sportserve** by day, cybersecurity student by night. I build the Excel and Python logic that keeps 7,000+ daily transactions tying out across payment providers.
+I build data tooling for payment reconciliation by day and security projects by night. Focused on turning messy transaction data into something a team can actually act on.
 
-🎓 **BSc Information Security & Forensics** — KCA University (2025)  
-📍 **Nairobi, Kenya** — open to remote, open to relocation  
-🎯 **Currently:** Power BI (PL-300) → Security+ → BTL1
+🎯 **Building toward:** PL-300 → Security+ → BTL1  
+🌍 **Open to:** remote work, relocation, collaboration
 
 </details>
 
@@ -52,9 +51,10 @@ Reconciliation analyst at **Sportserve** by day, cybersecurity student by night.
 ![TryHackMe](https://img.shields.io/badge/-TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
 
 **Built with**  
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
 **Tools**  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -68,4 +68,95 @@ Reconciliation analyst at **Sportserve** by day, cybersecurity student by night.
 <br>
 
 <p align="center">
-  <a href="https://github.com/EddMarwa/elimu-hub">
+  <a href="https://github.com/EddMarwa/Elimu-hub-2.0">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=EddMarwa&repo=Elimu-hub-2.0&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/EddMarwa/ParseNmap">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=EddMarwa&repo=ParseNmap&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/EddMarwa/Vpay">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=EddMarwa&repo=Vpay&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/EddMarwa/BOUNTY-HUNTER">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=EddMarwa&repo=BOUNTY-HUNTER&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+</details>
+
+<details id="repos">
+<summary><b>📂 All repos</b></summary>
+<br>
+
+Browse everything I've shipped and tinkered with over at my [repositories](https://github.com/EddMarwa?tab=repositories).
+
+</details>
+
+<details id="journey">
+<summary><b>🗺️ Software journey</b></summary>
+<br>
+
+```mermaid
+timeline
+    title From first line of code to now
+    2022 : First Python at KCA University
+         : Security fundamentals
+    2023 : Co-founded InvodTech with classmates
+         : First client work
+    2024 : Elimu Hub — learning platform prototype
+         : InvodTech website (Node.js, Prisma, React)
+         : Impact Hackathon (Polygon, Privado, M-Pesa)
+    2025 : Graduated BSc Information Security & Forensics
+         : Software sales & training — 1,500+ users
+    2026 : Pivoted into data — reconciliation analyst
+         : Studying Power BI + CompTIA Security+
+```
+
+</details>
+
+<details id="learning">
+<summary><b>📚 What I'm learning</b></summary>
+<br>
+
+| When | Focus | Status |
+| --- | --- | --- |
+| Nov 2026 – Jan 2027 | Microsoft PL-300 (Power BI Data Analyst) | 🔄 In progress |
+| Feb – Apr 2027 | CompTIA Security+ (SY0-701) | ⏳ Planned |
+| May 2027 | Blue Team Level 1 (BTL1) | ⏳ Planned |
+| Ongoing | TryHackMe SOC Level 1 | 🔄 In progress |
+
+</details>
+
+<details id="stats">
+<summary><b>📊 GitHub stats</b></summary>
+<br>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EddMarwa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EddMarwa&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EddMarwa&theme=tokyonight&hide_border=true" width="60%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EddMarwa&theme=tokyo-night&hide_border=true&area=true" width="90%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=EddMarwa&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
+
+</details>
+
+---
+
+<div align="center">
+
+<i>"Build something every week. Ship something every month."</i>
+
+</div>
